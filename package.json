@@ -9,22 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wujingjing2024/codescriptgenius"
+    "url": "https://github.com/ammonou2015/codescriptgenius"
   },
-  "website": "https://github.com/wujingjing2024/codescriptgenius.git",
+  "website": "https://github.com/ammonou2015/codescriptgenius.git",
   "keywords": [
     "codescriptgenius"
   ],
-  "author": "wujingjing2024",
+  "author": "ammonou2015",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wujingjing2024/codescriptgenius/issues"
+    "url": "https://github.com/ammonou2015/codescriptgenius/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/wujingjing2024/codescriptgenius#readme",
+  "homepage": "https://github.com/ammonou2015/codescriptgenius#readme",
   "dependencies": {
     "programcrafter": "1.0.2",
     "devcodeguru": "1.0.2",
