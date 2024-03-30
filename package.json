@@ -1,0 +1,33 @@
+{
+  "name": "codescriptgenius",
+  "version": "1.0.2",
+  "description": "codescriptgenius",
+  "type": "module",
+  "main": "codescriptgenius.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wujingjing2024/codescriptgenius"
+  },
+  "website": "https://github.com/wujingjing2024/codescriptgenius.git",
+  "keywords": [
+    "codescriptgenius"
+  ],
+  "author": "wujingjing2024",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wujingjing2024/codescriptgenius/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/wujingjing2024/codescriptgenius#readme",
+  "dependencies": {
+    "programcrafter": "1.0.2",
+    "devcodeguru": "1.0.2",
+    "scriptwizard": "1.0.2"
+  }
+}
